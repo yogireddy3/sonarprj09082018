@@ -1,0 +1,5 @@
+prj_testing\repository\SampleRepository.class
+prj_testing\controller\SampleController.class
+prj_testing\WebAppInitializer.class
+prj_testing\SampleInitializer.class
+prj_testing\model\Sample.class
